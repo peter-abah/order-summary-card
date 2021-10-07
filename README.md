@@ -28,13 +28,13 @@ Users should be able to:
 ![Mobile View](images/screenshot-mobile.png "Optional title")
 
 ### Links
-- Solution URL: [Solution on Frontend](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution on Frontend](https://www.frontendmentor.io/solutions/order-summary-card-jvYxz80fv)
+- Live Site URL: [Live site](https://peter-abah.github.io/order-summary-card/)
 
 ## My process
 I built the page using a Mobile-first workflow to ensure responsiveness across all devices
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@peter-abah](https://www.frontendmentor.io/profile/peter-abah)
 - Twitter - [@iamabah1](https://www.twitter.com/iamabah1)
