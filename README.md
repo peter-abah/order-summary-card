@@ -36,5 +36,5 @@ I built the page using a Mobile-first workflow to ensure responsiveness across a
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/peter-abah)
+- Frontend Mentor - [@peter-abah](https://www.frontendmentor.io/profile/peter-abah)
 - Twitter - [@iamabah1](https://www.twitter.com/iamabah1)
