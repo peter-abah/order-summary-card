@@ -113,6 +113,8 @@ p {
 .order-plan {
   flex-grow: 1;
   font-size: .875rem;
+  display: flex;
+  flex-direction: column;
 }
 
 .plan-type {
@@ -125,8 +127,6 @@ p {
 }
 
 .order-info a {
-  display: flex;
-  flex-direction: column;
   font-weight: bold;
   font-size: .75rem;
   color: var(--bright-blue);
