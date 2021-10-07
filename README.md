@@ -28,7 +28,7 @@ Users should be able to:
 ![Mobile View](images/screenshot-mobile.png "Optional title")
 
 ### Links
-- Solution URL: [Solution on Frontend](https://www.frontendmentor.io/solutions/order-summary-card-jvYxz80fv)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-card-jvYxz80fv)
 - Live Site URL: [Live site](https://peter-abah.github.io/order-summary-card/)
 
 ## My process
